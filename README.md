@@ -4,7 +4,7 @@ Spring-Boot &amp; Python AI Module
 # 개발 환경 구축
 1. Python Interpreter : http://www.python.org/ -> 3.12 ver Install (3.8이상필수)
 2. IDE Install : https://www.jetbrains.com/ko-kr/pycharm/download/?section=windows -> Community Ver Install
-3. FastAPI Install : pip install fastapi uvicorn
+3. FastAPI Install : cmd -> pip install fastapi uvicorn
 - ASGI(Asynchronus Server Gateway Interface)는 Python에서 비동기 Web Server와 Web Appication 간의 Interface / 표준 ASGI는 기존 WSGI(Web Server Gateway Interface)의 비동기 버전으로, Python에서 비동기 처리를 지원하는 Web Application을 구축하기 위함 
 - 참고 URL / https://velog.io/@hwaya2828/WSGI-ASGI
 4. ASGI 특징
