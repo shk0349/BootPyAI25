@@ -1,5 +1,3 @@
-from http.client import responses
-
 from fastapi import FastAPI    # python web devtool
 from pydantic import BaseModel    # 유효성 검사
 from starlette.middleware.base import BaseHTTPMiddleware
